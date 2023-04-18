@@ -1,2 +1,2 @@
 # local-dev
-tools that I used for local development as a Software Engineer
+collection of tools and scripts that I used for local development as a Software Engineer
