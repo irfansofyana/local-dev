@@ -107,6 +107,7 @@ volumes:
   postgres_data:
   mongo_data:
   redis_data:
+  rabbitmq_data:
 
 networks:
   app_network:
